@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm BB. A full-stack engineer skilled in building backend server architectures and SDK frameworks for game publishing. I am currently exploring how AI can empower developers, streamline workflows, and accelerate the growth of the gaming industry.
+Hi there! 👋 I'm BB, a System Architect and Full-stack Engineer. I specialize in building robust backend architectures, game publishing SDKs, and scalable B2C/C2C trading platforms. Currently, I am focused on exploring how AI can empower developers, streamline workflows, and accelerate the growth of the gaming industry.
 
 ## 🌐 Socials:
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xBB2B)
