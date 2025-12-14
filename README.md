@@ -46,4 +46,4 @@ Hi there! 👋 I'm BB, a System Architect and Full-stack Engineer. I specialize 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📊 GitHub Stats:
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=0xBB2B&theme=dark&hide_border=false)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0xBB2B&theme=dark)](https://git.io/streak-stats)
